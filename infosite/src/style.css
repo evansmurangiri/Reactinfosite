@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: inter ,sans-serif;
+}
+.nav-bar{
+    display: flex;
+    align-items: center;
+    padding: 30px 2;
+    background-color:#21222A ;
+}
+.nav-bar > img{
+    height: 40px;
+    margin-right: 7px;
+}
+.nav-bar >h3 {
+    margin-right: auto;
+    color: #61DAFB;
+    font-weight: 700;
+    font-size: 25px;
+}
+.nav-bar > h4 {
+    color: #DEEBF8;
+    font-weight: 600;
+}
